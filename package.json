@@ -1,0 +1,21 @@
+{
+	"name": "shades-of-purple-hyper",
+	"displayName": "Shades of Purple for Hyper™",
+	"description":
+		"Professional Hyper™ Terminal theme with hand-picked & bold shades of purple 💜 to go along with your command line usage. A custom Hyper™ Terminal theme with style.",
+	"version": "0.9.9",
+	"publisher": "ahmadawais",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ahmadawais/shades-of-purple-iterm2"
+	},
+	"author": "Ahmad Awais",
+	"license": "ISC",
+	"keywords": ["Shades of Purple", "Shade of Purple", "Cobalt", "hyperterm", "coblat 3"],
+	"devDependencies": {
+		"release-it": "^7.2.1"
+	},
+	"scripts": {
+		"release": "release-it"
+	}
+}
