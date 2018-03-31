@@ -11,7 +11,16 @@
 	},
 	"author": "Ahmad Awais",
 	"license": "ISC",
-	"keywords": ["Shades of Purple", "Shade of Purple", "Cobalt", "hyperterm", "coblat 3"],
+	"keywords": [
+		"Shades of Purple",
+		"Shade of Purple",
+		"Cobalt",
+		"hyperterm",
+		"hyper",
+		"coblat 3",
+		"hyper theme",
+		"hyper terminal"
+	],
 	"devDependencies": {
 		"release-it": "^7.2.1"
 	},
