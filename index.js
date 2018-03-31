@@ -25,8 +25,8 @@ const lightCyan = '#00ffff';
 const lightWhite = '#ffffff';
 
 // Few custom colors.
-const sopPurple = '#2D2B55';
-const variableBlue = '#1E1E3F';
+const sopPurpleBG = '#1E1D40';
+const variableBlue = '#2D2B55';
 const dustyBlue = '#b362ff';
 const highlightBlue = '#b362ff88';
 
@@ -34,18 +34,18 @@ exports.decorateConfig = config =>
 	Object.assign({}, config, {
 		cursorColor: yellow,
 		foregroundColor: white,
-		backgroundColor: sopPurple,
+		backgroundColor: sopPurpleBG,
 		borderColor: 'rgba(255,255,255,0.05)',
 		css: `
             ${config.css || ''}
             .tab_tab:before {
-            border-left: 1px solid;
+                border-left: 1px solid;
             }
             .tab_active {
-            background: rgba(255,255,255,0.05);
+                background: rgba(255,255,255,0.05);
             }
             .tab_active:before {
-            border-color: ${yellow};
+                border-color: ${yellow};
             }
         `,
 		colors: {
