@@ -1,6 +1,6 @@
 {
 	"non-interactive": true,
-	"increment": "minor",
+	"increment": "major",
 	"src": {
 		"commitMessage": "🦄 Release %s",
 		"tagAnnotation": "🦄 Release %s"
