@@ -1,7 +1,8 @@
 {
 	"name": "shades-of-purple-hyper",
 	"displayName": "Shades of Purple for Hyper™",
-	"description": "Professional Hyper™ Terminal theme with hand-picked & bold shades of purple 💜 to go along with your command line usage. A custom Hyper™ Terminal theme with style.",
+	"description":
+		"Professional Hyper™ Terminal theme with hand-picked & bold shades of purple 💜 to go along with your command line usage. A custom Hyper™ Terminal theme with style.",
 	"version": "0.11.0",
 	"publisher": "ahmadawais",
 	"repository": {
@@ -18,7 +19,18 @@
 		"hyper",
 		"coblat 3",
 		"hyper theme",
-		"hyper terminal"
+		"hyper terminal",
+		"hyper",
+		"hyperterm",
+		"hyper-shades-of-purple",
+		"hyper-theme",
+		"color-scheme",
+		"theme",
+		"terminal",
+		"background",
+		"ui",
+		"syntax",
+		"purple"
 	],
 	"devDependencies": {
 		"release-it": "^7.2.1"
