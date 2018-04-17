@@ -1,4 +1,4 @@
-<img align="center" src="https://on.ahmda.ws/qZ97/c" alt="Shades-of-Purple Theme for Hyper" />
+<img align="center" src="https://on.ahmda.ws/qvUU/c" alt="Shades-of-Purple Theme for Hyper" />
 
 <h1 align="center">Shades of Purple Theme for Hyper™</h1>
 
