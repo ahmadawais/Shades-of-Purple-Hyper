@@ -33,6 +33,14 @@
 
 ## Easy Installation
 
+Make sure you have the latest Hyper™ Terminal installed i.e. >= ver 2.0. Which comes with the Hyper CLI. Then just run the following command.
+
+```sh
+hyper i shades-of-purple-hyper
+```
+
+## Manual Installation
+
 1. Go to Hyper™ preferences i.e. Open your `~/.hyper.js` config file. On mac press <kbd>Command ⌘</kbd> + <kbd>,</kbd> — or just use your code editor like `code ~/.hyper.js` or `subl ~/.hyper.js` or `vim ~/.hyper.js`.
 2. Add `shades-of-purple-hyper` to your plugins array. Kindov like this:
 
@@ -43,8 +51,6 @@ plugins: [
 ```
 
 — Done!!! 🙌
-
-✅ **ALTERNATIVE** is to install via Hyper™ v2 built in CLI by running `hpm install shades-of-purple-hyper`.
 
 <br>
 
