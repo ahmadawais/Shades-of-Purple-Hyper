@@ -52,6 +52,8 @@ plugins: [
 
 — Done!!! 🙌
 
+_🔥 TIP: If you want your terminal to look exactly like that, then I can share the fact that I use ZSH, with Powerline fonts in iTerm2 for which I created a [Shades of Purple ZSH theme](https://github.com/ahmadawais/shades-of-purple-iterm2) as well. You might want to add that after installing ZSH.
+
 <br>
 
 ![Shades of purple for other software](https://on.ahmda.ws/qYAe/c)
