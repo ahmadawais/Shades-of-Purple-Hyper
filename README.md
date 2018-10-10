@@ -1,4 +1,4 @@
-<img align="center" src="https://on.ahmda.ws/qvUU/c" alt="Shades-of-Purple Theme for Hyper" />
+<img align="center" src="https://raw.githubusercontent.com/ahmadawais/Shades-of-Purple-Hyper/master/images/Shades-of-Purple-Hyper.gif" alt="Shades-of-Purple Theme for Hyper" />
 
 <h1 align="center">Shades of Purple Theme for Hyper™</h1>
 
@@ -29,7 +29,7 @@
 
 <br>
 
-![Install](https://on.ahmda.ws/qWVC/c)
+![Install](https://raw.githubusercontent.com/ahmadawais/Shades-of-Purple-Hyper/master/images/icons8-settings.png)
 
 ## Easy Installation
 
@@ -56,7 +56,7 @@ plugins: [
 
 <br>
 
-![Shades of purple for other software](https://on.ahmda.ws/qYAe/c)
+![Shades of purple for other software](https://raw.githubusercontent.com/ahmadawais/Shades-of-Purple-Hyper/master/images/icons8-return.png)
 
 ## Put `Shades of Purple` In Other Places!
 
@@ -71,7 +71,7 @@ I have built other `Shades of Purple` themes for different software. Here's a li
 
 <br>
 
-![Hello](https://on.ahmda.ws/os6O/c)
+![Hello](https://raw.githubusercontent.com/ahmadawais/Shades-of-Purple-Hyper/master/images/icons8-private-96.png)
 
 #### **Hello, we're the [WordPress Couple](https://WPCouple.com)**!
 
@@ -85,7 +85,7 @@ If you'd like us to keep producing professional free and open source software (F
 
 <br>
 
-![Partners](https://on.ahmda.ws/osEJ/c)
+![Partners](https://raw.githubusercontent.com/ahmadawais/Shades-of-Purple-Hyper/master/images/icons8-handshake-96.png)
 
 ### Project Backers & [WPCouple Partners](https://WPCouple.com/partners) ⚡️
 
@@ -93,38 +93,39 @@ This FOSS (free and open source software) project is updated and maintained with
 
 — _What/How? [Read more about it →](https://WPCouple.com/partners)_
 
+— _What/How? [Read more about it →](https://WPCouple.com/partners)_
+
 <table width='100%'>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://www.gravityforms.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtrE/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://kinsta.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mu5O/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://wpengine.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mto3/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.gravityforms.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_gravity.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://kinsta.com/?kaid=WMDAKYHJLNJX&utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_kisnta.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://ahmda.ws/USES_WPE?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_wpe.png' /></a></td>
 	</tr>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://www.sitelock.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtyZ/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://wp-rocket.me/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtrv/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://blogvault.net/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtph/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.sitelock.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_sitelock.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://wp-rocket.me/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_wpr.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://blogvault.net/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_bv.png' /></a></td>
 	</tr>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://cridio.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtmy/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://wecobble.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtrW/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://www.cloudways.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mu0C/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://cridio.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_cwp.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://wecobble.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_wpcbl.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.cloudways.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_cwys.png' /></a></td>
 	</tr>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://www.cozmoslabs.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mu9W/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://wpgeodirectory.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtwv/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://www.wpsecurityauditlog.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtkh/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.cozmoslabs.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_czmz.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://wpgeodirectory.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_geodir.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.wpsecurityauditlog.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wp_sal.png' /></a></td>
 	</tr>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://mythemeshop.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/n3ug/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://www.liquidweb.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtnt/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mu3F/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://mythemeshop.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_mts.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://ahmda.ws/USES_LiquidWeb?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_lw.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_cby.png' /></a></td>
 	</tr>
 </table>
 
-
 <br>
 
-![Thanks](https://on.ahmda.ws/orkW/c)
+![License & Attribution thanks](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/12_license.png)
 
 ## License & Attribution
 
