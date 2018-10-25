@@ -29,7 +29,7 @@
 
 <br>
 
-![Install](https://raw.githubusercontent.com/ahmadawais/Shades-of-Purple-Hyper/master/images/icons8-settings.png)
+![Install](https://on.ahmda.ws/qWVC/c)
 
 ## Easy Installation
 
@@ -56,7 +56,7 @@ plugins: [
 
 <br>
 
-![Shades of purple for other software](https://raw.githubusercontent.com/ahmadawais/Shades-of-Purple-Hyper/master/images/icons8-return.png)
+![Shades of purple for other software](https://on.ahmda.ws/qYAe/c)
 
 ## Put `Shades of Purple` In Other Places!
 
@@ -68,10 +68,12 @@ I have built other `Shades of Purple` themes for different software. Here's a li
 - 💜 [Konsole theme](https://github.com/ahmadawais/shades-of-purple-konsole) — Shades of Purple
 - 💜 [Slack theme](https://github.com/ahmadawais/shades-of-purple-slack) — Shades of Purple
 - 💜 [Alfred theme](https://github.com/ahmadawais/shades-of-purple-alfred) — Shades of Purple
+- 💜 [Cygwin theme](https://github.com/ahmadawais/Shades-of-Purple-Cygwin) — Shades of Purple
+
 
 <br>
 
-![Hello](https://raw.githubusercontent.com/ahmadawais/Shades-of-Purple-Hyper/master/images/icons8-private-96.png)
+![Hello](https://on.ahmda.ws/os6O/c)
 
 #### **Hello, we're the [WordPress Couple](https://WPCouple.com)**!
 
@@ -85,7 +87,7 @@ If you'd like us to keep producing professional free and open source software (F
 
 <br>
 
-![Partners](https://raw.githubusercontent.com/ahmadawais/Shades-of-Purple-Hyper/master/images/icons8-handshake-96.png)
+![Partners](https://on.ahmda.ws/osEJ/c)
 
 ### Project Backers & [WPCouple Partners](https://WPCouple.com/partners) ⚡️
 
@@ -125,7 +127,7 @@ This FOSS (free and open source software) project is updated and maintained with
 
 <br>
 
-![License & Attribution thanks](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/12_license.png)
+![Thanks](https://on.ahmda.ws/orkW/c)
 
 ## License & Attribution
 
