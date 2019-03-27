@@ -6,10 +6,10 @@
 	"publisher": "ahmadawais",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ahmadawais/shades-of-purple-iterm2"
+		"url": "https://github.com/ahmadawais/Shades-of-Purple-Hyper"
 	},
 	"author": "Ahmad Awais",
-	"license": "ISC",
+	"license": "MIT",
 	"keywords": [
 		"Shades of Purple",
 		"Shade of Purple",
