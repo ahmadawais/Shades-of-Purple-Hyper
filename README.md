@@ -42,7 +42,7 @@ hyper i shades-of-purple-hyper
 ## Manual Installation
 
 1. Go to Hyper™ preferences i.e. Open your `~/.hyper.js` config file. On mac press <kbd>Command ⌘</kbd> + <kbd>,</kbd> — or just use your code editor like `code ~/.hyper.js` or `subl ~/.hyper.js` or `vim ~/.hyper.js`.
-2. Add `shades-of-purple-hyper` to your plugins array. Kindov like this:
+2. Add `shades-of-purple-hyper` to your plugins array. Kind of like this:
 
 ```js
 plugins: [
@@ -52,7 +52,7 @@ plugins: [
 
 — Done!!! 🙌
 
-> _🔥 TIP: If you want your terminal to look exactly like that, then I can share the fact that I use ZSH, with Powerline fonts in iTerm2 for which I created a [Shades of Purple ZSH theme](https://github.com/ahmadawais/shades-of-purple-iterm2) as well. You might want to add that after installing ZSH._
+> **⚠️ TIP**: If you want your terminal to look exactly like that, then I can share the fact that I use ZSH, with Powerline fonts in iTerm2 for which I created a [Shades of Purple ZSH theme](https://github.com/ahmadawais/shades-of-purple-iterm2) as well. You might want to add that after installing ZSH.
 
 ## My Configuration File
 
