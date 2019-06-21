@@ -194,12 +194,14 @@ This FOSS (free and open source software) project is updated and maintained with
 
 <table width='100%'>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://ahmda.ws/USES_KINSTA'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_kisnta.png' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://ahmda.ws/USES_WPE?utm_source=TheDevCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_wpe.png' /></a></td>
-    <td width='333.33'><a target='_blank' href='https://mythemeshop.com/?utm_source=TheDevCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_mts.png' /></a></td>
+		<td width='500'><a target='_blank' href='https://kinsta.com/?kaid=WMDAKYHJLNJX&utm_source=TheDevCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/73cedc/c' /></a></td>
+		<td width='500'><a target='_blank' href='https://ahmda.ws/USES_WPE?utm_source=TheDevCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/ff40fe/c' /></a></td>
+	</tr>
+	<tr>
+		<td width='500'><a target='_blank' href='https://mythemeshop.com/?utm_source=TheDevCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/3166d9/c' /></a></td>
+		<td width='500'><a target='_blank' href='https://ipapi.co/?utm_source=TheDevCouple&utm_medium=Partner'><img src='https://d2ddoduugvun08.cloudfront.net/items/1R190r2U0p3N3L0U0b2u/ip-api.png'/></a></td>
 	</tr>
 </table>
-
 <br>
 
 ![Thanks](https://on.ahmda.ws/orkW/c)
@@ -211,3 +213,20 @@ This FOSS (free and open source software) project is updated and maintained with
 Thanks to the creators of Slack and Icons8 for the icons in this readme.
 
 _Say 👋 on Twitter_ →  [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+
+
+<br />
+<br />
+<p align="center">
+<strong>For anything else, tweet at <a href="https://twitter.com/MrAhmadAwais/" target="_blank" rel="noopener noreferrer">@MrAhmadAwais</a></strong>
+</p>
+
+<div align="center">
+	<p>I have released a video course to help you become a better developer — <a href="https://VSCode.pro/?utm_source=GitHubFOSS" target="_blank">Become a VSCode Power User →</a></p>
+    <br />
+  <a href="https://VSCode.pro/?utm_source=GitHubFOSS" target="_blank">
+  <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/vscodeproPlay.jpg" /><br>VSCode</a>
+
+  _<small><a href="https://VSCode.pro/?utm_source=GitHubFOSS" target="_blank">VSCode Power User Course →</a></small>_
+</div>
+
