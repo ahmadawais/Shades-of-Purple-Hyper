@@ -29,7 +29,7 @@
 
 <br>
 
-![Install](https://on.ahmda.ws/qWVC/c)
+![Install](https://raw.githubusercontent.com/ahmadawais/Shades-of-Purple-Hyper/master/images/icons8-settings.png)
 
 ## Easy Installation
 
